@@ -115,6 +115,10 @@ header {
         flex-wrap: nowrap;
     }
 
+    .info-boxes img {
+        border:2px solid #3882f6;
+        border-radius: 30px;
+    }
 
 footer {
     color: #E5E7EB;
