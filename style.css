@@ -94,6 +94,8 @@ header {
 .info-section {
     display: flex;
     flex-direction: column;
+    margin-bottom: 100px;
+
 }
 
     .info-section img {
@@ -126,6 +128,7 @@ header {
         color: #3A3B3C;
     }
 
+
 footer {
     color: #E5E7EB;
     display: flex;
@@ -134,3 +137,6 @@ footer {
     align-items: center;
 }
 
+.quote-section {
+    background-color: #E5E7EB;
+}
